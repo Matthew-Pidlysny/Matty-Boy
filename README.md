@@ -2,6 +2,8 @@
 
 A Thumbdrive image that will deliver a years worth of satisfaction!  Please note, Thumbdrives are not required if you can mount the image.
 
+PS:  Nothing has happened because zero media coverage ;)
+
 # About the Project
 
 This image was created in the hysteria spoken of before, but I really want it because of my heart.  In it, I feel what people are asking for, and alot of people are upset that a free thing is now paid for.  Those won't be on the drive, this will be entirely new and hopes to be an annual event of release.  Granted, Halo 7 is on it, but only because of the initial wishes of Bungie, in which they asked for it to stay with me and/or contemporary Bungie, which does not want the liability right now (But come on, wouldn't this be a smacking game on Xbox?)
