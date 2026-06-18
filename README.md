@@ -8,5 +8,5 @@ This image was created in the hysteria spoken of before, but I really want it be
 
 The device hosts anywhere from 20-50 random games for each individual consumer, and know that goes by God to do, there is nothing fishy going on at all.  There will be games for all sorts of devices, and if that is illegal in your home country a notice will be posted that either your fun was more important to God for a while WITH the media, or a notice telling you about the dangers of the current operation you are conducting if that fails.  Nobody should feel victim for not getting the Flash drive to work, that is up to God for your safety and others.  
 
-Mounsik is over, just a course on hacking there for the protection of the future, and there are no political events to speak of.  I also have placed a Business.md file here, you can get to know it and we can do Business if you wish.   However, I am not selling anything through the file, only what I propose and what you accept if you wiah.
+Mounsik is over, just a course on hacking there for the protection of the future, and there are no political events to speak of.  I also have placed a "PhoneService.exe" file here, you can get to know it and we can do Business if you wish.   However, I am not selling anything through the file, only what I propose and what you accept if you wiah.
 
