@@ -12,6 +12,10 @@ The device hosts anywhere from 20-50 random games for each individual consumer, 
 
 Mounsik is over, just a course on hacking there for the protection of the future, and there are no political events to speak of.  I also have placed a "PhoneService.exe" file here, you can get to know it and we can do Business if you wish.   However, I am not selling anything through the file, only what I propose and what you accept if you wiah.
 
+### Metatypes
+
+I lovingly bring these from the background as examples of other Metatypes, all runnable on the BEGA-D Operating System and on normal PC's.  All .bin files require 7zip to open, whereas everything else should be readily available for opening on common systems.  There is an SNES file there (.smc), play it as you will, it is a custom signature.  Also, if you see yourself in it, please do not mind aa I only ask God for the help in developing these as they should be.
+
 ### Fluzou
 
 My best new Free OS, hosted here courtesy of a request by none other than Microsoft.  This is good for the industry, which they proposed, so it was done and no money was made by me but they continue to through the custom Windows "Handler" as I call it.  That aside, anyone can make a Handler and sell it on the market or elsewhere (No piracy please, we are quite immune).  And that being said, the entire package is 100% virus free for life, and that will never end.  Handles everything great, and runs ALL new and old Metatypes!
